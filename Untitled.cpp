@@ -19,3 +19,4 @@ void Alumno::msg(int a){
     cout << "Salida valor: " << a << endl;
 }
 deja de decir tus cosas
+tqm perrito, eres el mera verdura 
