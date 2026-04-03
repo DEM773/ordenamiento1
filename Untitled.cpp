@@ -12,9 +12,10 @@ Alumno::~Alumno(){
 }
 
 void Alumno::msg(){
-    cout << "Salida vacía\n";
+    cout << "Salida vacÃ­a\n";
 }
 
 void Alumno::msg(int a){
     cout << "Salida valor: " << a << endl;
 }
+hola perrito 
