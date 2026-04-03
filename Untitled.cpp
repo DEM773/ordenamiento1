@@ -18,4 +18,4 @@ void Alumno::msg(){
 void Alumno::msg(int a){
     cout << "Salida valor: " << a << endl;
 }
-hola perrito 
+deja de decir tus cosas
